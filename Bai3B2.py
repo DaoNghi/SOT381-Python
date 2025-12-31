@@ -11,4 +11,5 @@ for j in range(n):
     Ds=ds[j]
     if Ds%2==0 or Ds%3==0:
         s=s+Ds
-print(f"Tong cac so chia het cho 2 va 3 trong danh sach la: {s}")
+print(f"Tong cac so chia het cho 2 hoac 3 trong danh sach la: {s}")
+
